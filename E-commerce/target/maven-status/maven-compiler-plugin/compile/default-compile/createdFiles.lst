@@ -1,3 +1,5 @@
-com\mycompany\dao\ConexaoBD.class
-com\mycompany\dao\ECommerce.class
-.netbeans_automatic_build
+com\mycompany\interfaces\Ecommerce.class
+com\mycompany\control\PersistenciaProduto.class
+com\mycompany\dao\ConexaoMySQL.class
+com\mycompany\model\Produto.class
+com\mycompany\dao\ConexaoInterface.class

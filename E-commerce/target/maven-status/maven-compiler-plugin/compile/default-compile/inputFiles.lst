@@ -1,2 +1,5 @@
-C:\Users\yurik\Documents\NetBeansProjects\SistemaEcomerce\E-commerce\src\main\java\com\mycompany\dao\ECommerce.java
-C:\Users\yurik\Documents\NetBeansProjects\SistemaEcomerce\E-commerce\src\main\java\com\mycompany\dao\ConexaoBD.java
+C:\Users\yurik\Documents\NetBeansProjects\SistemaEcomerce\E-commerce\src\main\java\com\mycompany\dao\ConexaoMySQL.java
+C:\Users\yurik\Documents\NetBeansProjects\SistemaEcomerce\E-commerce\src\main\java\com\mycompany\control\PersistenciaProduto.java
+C:\Users\yurik\Documents\NetBeansProjects\SistemaEcomerce\E-commerce\src\main\java\com\mycompany\dao\ConexaoInterface.java
+C:\Users\yurik\Documents\NetBeansProjects\SistemaEcomerce\E-commerce\src\main\java\com\mycompany\interfaces\Ecommerce.java
+C:\Users\yurik\Documents\NetBeansProjects\SistemaEcomerce\E-commerce\src\main\java\com\mycompany\model\Produto.java
